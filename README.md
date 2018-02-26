@@ -16,7 +16,11 @@ Contents will be provided soon.
 ## Installation
 
 * install graphviz
-	sudo apt-get install graphviz
+```
+sudo apt-get install graphviz
+```
 * install python packages with pip
-	sudo pip install -r requirements.txt
+```
+sudo pip install -r requirements.txt
+```
  
