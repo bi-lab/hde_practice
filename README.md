@@ -12,6 +12,8 @@ Contents will be provided soon.
   "End-To-End Memory Networks",
   [http://arxiv.org/abs/1503.08895](http://arxiv.org/abs/1503.08895)
 
+* K.-M. Kim, M.-O. Heo, S.-H. Choi, B.-T. Zhang, "DeepStory: Video Story QA by Deep Embedded Memory Networks"
+  [https://arxiv.org/abs/1707.00836](https://arxiv.org/abs/1707.00836)
 
 ## Installation
 
