@@ -10,7 +10,7 @@ Contents will be provided soon.
 
 * Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus,
   "End-To-End Memory Networks",
-  [http://arxiv.org/abs/1503.08895](http://arxiv.prg/abs/1503.08895)
+  [http://arxiv.org/abs/1503.08895](http://arxiv.org/abs/1503.08895)
 
 
 ## Installation
