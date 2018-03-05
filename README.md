@@ -1,11 +1,11 @@
 # hde_practice
 Practicing memory networks with easy examples
 
-1. Trying end-to-end memory networks with webapp. 
+1. Trying end-to-end memory networks with webapp. (./MemN2N-babi-python/) 
 
-2. Reading end-to-end memory networks (keras code)
+2. Reading end-to-end memory networks (keras code) (babi_memnn_practice.ipynb)
 
-3. Reading Deep Embedded memory networks (keras code) 
+3. Reading Deep Embedded memory networks (keras code) (DEMN_practice.ipynb) 
 
 
 ## Reference Papers
