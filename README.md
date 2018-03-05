@@ -1,7 +1,12 @@
 # hde_practice
 Practicing memory networks with easy examples
 
-Contents will be provided soon.
+1. Trying end-to-end memory networks with webapp. 
+
+2. Reading end-to-end memory networks (keras code)
+
+3. Reading Deep Embedded memory networks (keras code) 
+
 
 ## Reference Papers
 * Jason Weston, Antoine Bordes, Sumit Chopra, Tomas Mikolov, Alexander M. Rush,
